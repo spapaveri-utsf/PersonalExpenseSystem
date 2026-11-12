@@ -37,4 +37,4 @@ Gli importi sono memorizzati in centesimi interi per evitare errori di arrotonda
 Registrare un video dello schermo che mostri l'avvio, la creazione di una categoria, l'inserimento di una spesa, la definizione del budget e almeno un report. Salvare come `demo/demo_video.mp4`.
 
 ## Repository
-Pubblicare soltanto `src/`, `sql/`, `demo/` e `README.md`; non pubblicare `spese.db` con dati personali.
+Il repository GitHub contiene il codice sorgente Python (`src/`), lo script SQL (`sql/`), il file README.md e, una volta completato il caricamento, il video dimostrativo (`demo/`). Il database locale `spese.db` non viene pubblicato per evitare la diffusione di eventuali dati personali.
